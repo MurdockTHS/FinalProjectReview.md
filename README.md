@@ -3,7 +3,7 @@ A presentation made in 15 minutes because I forgot to read the homework.
 
 
 ## Project Experience
-The Project SDLC can be seen here [Piglulator Prototype](https://github.com/Sillymoosey/Pigulator)
+The Project SDLC can be seen here [Piglulator SDL](https://github.com/Sillymoosey/Pigulator)
 
 ## Code and Architecture
 The program uses mostly C# and HTML with a little javascript and CSS.
